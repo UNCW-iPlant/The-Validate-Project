@@ -1,3 +1,6 @@
 [submodule "Quickstart-guide"]
 	path = Quickstart-guide
 	url = https://github.com/UNCW-iPlant/Quickstart-guide
+[submodule "Validate-Main"]
+	path = Validate-Main
+	url = https://github.com/UNCW-iPlant/Validate-Main
