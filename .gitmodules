@@ -1,0 +1,3 @@
+[submodule "Quickstart-guide"]
+	path = Quickstart-guide
+	url = https://github.com/UNCW-iPlant/Quickstart-guide
