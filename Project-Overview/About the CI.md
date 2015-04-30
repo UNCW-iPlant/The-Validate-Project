@@ -26,7 +26,4 @@ Because all of these products are integrated into the iPlant cyberinfrastructure
 cyberinfrastructure depends on community contributions from scientists like yourself. IPlant has thought ahead in this regard: each of the above products has extensive documentation in the iPlant wiki
 and functional APIs. Beyond that, iPlant takes a developer friendly approach in interacting with systems such as frequent hack-a-thons and interfaces for making documentation writing easier.
 
-
-
-
-
+Next: [Benefits of Validate](ValidateBenefits.md)
