@@ -1,6 +1,6 @@
 #What is iPlant?
 
-Quite simply, iPlant is a cyberinfrastructure focused on life science research. A cyberinfrastructure is data storage, software, high-performance computing, and people 
+Quite simply, the iPlant Collaborative is a cyberinfrastructure focused on life science research. A cyberinfrastructure is data storage, software, high-performance computing, and people 
 – organized into systems that solve problems of size and scope that would not otherwise be solvable. The iPlant cyberinfrastructure provides a number of resources to scientists
 including software platforms, analysis tools, and pre-existing datasets. In addition, iPlant offers big data storage, computing power, and training and support for new iPlant members or new researchers.
 
